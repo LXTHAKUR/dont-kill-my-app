@@ -1,4 +1,4 @@
----
+-lx tool--
 manufacturer:
     - tecno
 
